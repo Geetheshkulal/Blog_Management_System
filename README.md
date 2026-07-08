@@ -12,7 +12,7 @@ A full-stack blog management system built with Django REST Framework (backend) a
 - Search functionality for posts
 
 ## Backend Setup
-
+- Clone Repository
 ```bash
 cd backend
 python -m venv venv
