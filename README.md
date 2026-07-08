@@ -50,5 +50,5 @@ Frontend: `http://localhost:3000`
 
 ## Default Admin Account
 
-- **Username:** admin
-- **Password:** admin123
+- **Email:** admin@example.com
+- **Password:** admin@123
