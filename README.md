@@ -1,7 +1,21 @@
 # Blog Management System
 
-A full-stack blog management system built with Django REST Framework (backend) and React.js (frontend with Vite).
+A full-stack blog management system built with Django REST Framework (backend) and React.js (frontend).
 
+## Tech Stack
+Backend
+- Python
+- Django
+- Django REST Framework
+- Mysql
+- Token Authentication
+  
+Frontend
+- React
+- React Router
+- Bootstrap 5
+- React Hot Toast
+  
 ## Features
 
 - User authentication (login/logout)
@@ -13,6 +27,9 @@ A full-stack blog management system built with Django REST Framework (backend) a
 
 ## Backend Setup
 - Clone Repository
+```bash
+git clone https://github.com/Geetheshkulal/Blog_Management_System.git
+```
 ```bash
 cd backend
 python -m venv venv
