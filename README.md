@@ -35,6 +35,10 @@ cd backend
 python -m venv venv
 venv\Scripts\activate  # Windows
 pip install -r ../requirements.txt
+
+# Create the database in phpMyAdmin
+CREATE DATABASE blog_db;
+
 python manage.py migrate
 python manage.py createsuperuser
 python manage.py runserver
