@@ -41,6 +41,12 @@ CREATE DATABASE blog_db;
 
 python manage.py migrate
 python manage.py createsuperuser
+
+username - admin
+Email address - admin@example.com
+password - admin@123
+Bypass password validation and create user anyway? [y/N]: y
+
 python manage.py runserver
 ```
 
